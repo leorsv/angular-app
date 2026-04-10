@@ -1,11 +1,11 @@
-# Angular Project — Copilot Instructions
+﻿# Angular Project â€” Copilot Instructions
 
 > **Auto-synced from instructions-platform.**
-> Source: `https://raw.githubusercontent.com/leorsv/instructions-platform/main/instructions/angular.md`
-> Run `./sync-instructions.ps1` (Windows) or `./sync-instructions.sh` (Mac/Linux) to pull the latest.
+> Source: `https://raw.githubusercontent.com/leorsv/instructions-platform/master/instructions/angular.md`
+> Last synced: 2026-04-10 16:00
+> Run `./sync-instructions.ps1` to pull the latest.
 
 ---
-
 # Angular Instructions
 
 ## Build
@@ -20,3 +20,4 @@
 ## Best Practices
 - Use services for API calls
 - Follow modular architecture
+

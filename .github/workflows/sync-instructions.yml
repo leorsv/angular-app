@@ -18,7 +18,7 @@ jobs:
       - name: Fetch latest Angular instructions
         run: |
           mkdir -p .github
-          curl -fsSL https://raw.githubusercontent.com/leorsv/instructions-platform/main/instructions/angular.md \
+          curl -fsSL https://raw.githubusercontent.com/leorsv/instructions-platform/master/instructions/angular.md \
             -o /tmp/angular.md
 
       - name: Write copilot-instructions.md

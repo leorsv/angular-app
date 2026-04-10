@@ -2,7 +2,7 @@
 # Fetches the latest Angular instructions from the instructions-platform and
 # writes them into .github/copilot-instructions.md so Copilot picks them up.
 
-$sourceUrl = "https://raw.githubusercontent.com/leorsv/instructions-platform/main/instructions/angular.md"
+$sourceUrl = "https://raw.githubusercontent.com/leorsv/instructions-platform/master/instructions/angular.md"
 $outputPath = ".github/copilot-instructions.md"
 
 Write-Host "Fetching instructions from $sourceUrl ..."
