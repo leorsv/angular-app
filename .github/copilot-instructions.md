@@ -2,7 +2,7 @@
 
 > **Auto-synced from instructions-platform.**
 > Source: `https://raw.githubusercontent.com/leorsv/instructions-platform/main/instructions/angular.md`
-> Last synced: 2026-04-13 08:06 UTC
+> Last synced: 2026-04-20 08:09 UTC
 
 ---
 
